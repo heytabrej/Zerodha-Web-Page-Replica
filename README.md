@@ -6,10 +6,9 @@ This project is a replica of the landing page for Zerodha, a leading financial s
 
 1. Clone the repository to your local machine:
 
-   \`\`\`bash
-   git clone [repository_url]
-   cd [repository_directory]
-   \`\`\`
+   ```bash
+   git clone
+   cd 
 
 2. Open the \`index.html\` file in your preferred web browser.
 
